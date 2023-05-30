@@ -79,3 +79,6 @@ clust=/booleanfs/sahoo/softwares/SequencingData/dnaclust_linux_release3/dnaclust
 python collect.py
 ```
 
+References:
+https://manuals.cellecta.com/clonetracker-xp-lentiviral-barcode-libraries/
+
